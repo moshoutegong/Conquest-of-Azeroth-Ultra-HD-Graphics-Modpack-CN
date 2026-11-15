@@ -25,7 +25,7 @@
 
 Conquest Reborn、ArdenWoW、Grimfall 等自定义 3.3.5a 服务器可能检测到修改过的客户端，并阻止 64 位客户端运行。按兼容指南调整后，仍可尝试使用这些增强内容。
 
-[高清补丁兼容与重命名指南（简体中文）](Compatibility%20Guide.md)
+[高清补丁兼容与重命名指南（简体中文）](Compatibility%20Guide.md) · [ArdenWoW 一键安装方案](#ardenwow-一键安装方案)
 
 标准 3.3.5a 或 1.12 客户端可参考 [Project Reforged](https://projectreforged.github.io/)。
 
@@ -72,9 +72,19 @@ Conquest Reborn、ArdenWoW、Grimfall 等自定义 3.3.5a 服务器可能检测�
 
 ## 📥 下载与安装
 
-[下载整合包（百度网盘）](https://pan.baidu.com/s/1UvSjqzH9MYLiAGns51tHlw?pwd=kf34 提取码: kf34)
+### ArdenWoW 一键安装方案
 
-以下是完整 **CoA Core** 方案。ArdenWoW 玩家请使用[兼容指南](Compatibility%20Guide.md)。
+适用于 **32 位 ArdenWoW 3.3.5.12340**。安装器提供 8 个按 Arden 兼容方案整理的高清 MPQ，以及 **32 位 CoAVolFog 简体中文版**。两组组件可以分别安装和还原。
+
+- [下载 ArdenWoW 一键安装包（百度网盘）](https://pan.baidu.com/s/1UvSjqzH9MYLiAGns51tHlw?pwd=kf34) · 提取码 **`kf34`**
+- [ArdenWoW 一键安装器项目与使用说明](https://github.com/moshoutegong/ArdenWoW-HD-Installer-CN)
+- [手动安装兼容指南](Compatibility%20Guide.md)
+
+解压后运行 `ArdenWoW 高清补丁安装器.exe`，选择包含 `Arden.exe` 和 `Data` 的游戏目录，再按需安装。安装后继续使用 `Arden.exe` 启动。
+
+### CoA Core 完整方案
+
+以下步骤适用于 **CoA Core**。完整整合包的下载入口见 [fueryin 原项目](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/tree/CoA-HD-PATCH)。
 
 1. 下载并解压整合包。
 2. 将包内文件放入征服艾泽拉斯客户端目录。
