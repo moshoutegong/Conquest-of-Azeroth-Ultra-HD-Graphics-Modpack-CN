@@ -49,6 +49,7 @@ Conquest Reborn、ArdenWoW、Grimfall 等自定义 3.3.5a 服务器可能检测�
 
 - **64 位征服艾泽拉斯客户端**：整合包包含定制的 64 位客户端，作者称其性能明显优于原有的 32 位客户端。完整 CoA 方案需要使用它。
 - **LuxVelum**：增强雾气、光照和水面。在游戏中按 **Ctrl+F7** 打开设置。
+  - **ArdenWoW 简体中文光影方案**：本仓库维护者汉化的 32 位 **CoAVolFog** 已在 ArdenWoW 中实测可用，可用 **Ctrl+F7** 打开中文设置，调整体积雾、光照和动态水面。它可作为 ArdenWoW 上的光影选项。两者都使用游戏目录下的 `version.dll`，请选择一套安装。[CoAVolFog 简体中文版与安装说明](https://github.com/moshoutegong/coa-vfog-CN)
 - **自定义 ReShade 预设**：改善清晰度、对比度和色彩。在游戏中按 **Home** 打开设置。
 - **自定义 `Config.wtf`**：进一步提高视距、环境细节、阴影与特效。
 
