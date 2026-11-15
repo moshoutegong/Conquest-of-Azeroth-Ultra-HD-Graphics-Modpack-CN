@@ -72,7 +72,7 @@ Conquest Reborn、ArdenWoW、Grimfall 等自定义 3.3.5a 服务器可能检测�
 
 ## 📥 下载与安装
 
-[下载整合包（Google Drive）](https://drive.google.com/file/d/1i5adZD5hBE9FBuUIZ3Wv884P8sBE15-8/view?usp=drivesdk)
+[下载整合包（百度网盘）](https://pan.baidu.com/s/1UvSjqzH9MYLiAGns51tHlw?pwd=kf34 提取码: kf34)
 
 以下是完整 **CoA Core** 方案。ArdenWoW 玩家请使用[兼容指南](Compatibility%20Guide.md)。
 
