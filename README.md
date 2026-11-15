@@ -80,13 +80,6 @@ Conquest Reborn、ArdenWoW、Grimfall 等自定义 3.3.5a 服务器可能检测�
 2. 将包内文件放入征服艾泽拉斯客户端目录。
 3. 运行 `CoA64.exe` 启动游戏。
 
-<details>
-<summary>遇到 Google Drive 下载配额限制</summary>
-
-作者建议先把文件添加为自己云端硬盘中的快捷方式，新建一个文件夹并把快捷方式移进去，再将该文件夹整体下载为 ZIP。直接下载受限时，可以尝试这个方法。
-
-</details>
-
 ### 安装 ReShade（CoA Core 方案）
 
 1. 下载并运行 [ReShade 6.8.0 Addon 安装器](https://reshade.me/downloads/ReShade_Setup_6.8.0_Addon.exe)。
