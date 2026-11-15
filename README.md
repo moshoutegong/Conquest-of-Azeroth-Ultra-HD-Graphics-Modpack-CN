@@ -72,23 +72,30 @@ Conquest Reborn、ArdenWoW、Grimfall 等自定义 3.3.5a 服务器可能检测�
 
 ## 📥 下载与安装
 
+**[百度网盘下载（含 64 位完整包和 ArdenWoW 一键安装包）](https://pan.baidu.com/s/1UvSjqzH9MYLiAGns51tHlw?pwd=kf34)**  
+提取码 **`kf34`**
+
+| 网盘内的安装包 | 适用客户端 | 启动方式 |
+| --- | --- | --- |
+| **原作者 64 位完整高清补丁包** | Conquest of Azeroth Core | 安装后运行 `CoA64.exe` |
+| **ArdenWoW 一键安装包** | 32 位 ArdenWoW 3.3.5.12340 | 安装后运行原来的 `Arden.exe` |
+
 ### ArdenWoW 一键安装方案
 
-适用于 **32 位 ArdenWoW 3.3.5.12340**。安装器提供 8 个按 Arden 兼容方案整理的高清 MPQ，以及 **32 位 CoAVolFog 简体中文版**。两组组件可以分别安装和还原。
+安装器提供 8 个按 Arden 兼容方案整理的高清 MPQ，以及 **32 位 CoAVolFog 简体中文版**。两组组件可以分别安装和还原。
 
-- [下载 ArdenWoW 一键安装包（百度网盘）](https://pan.baidu.com/s/1UvSjqzH9MYLiAGns51tHlw?pwd=kf34) · 提取码 **`kf34`**
 - [ArdenWoW 一键安装器项目与使用说明](https://github.com/moshoutegong/ArdenWoW-HD-Installer-CN)
 - [手动安装兼容指南](Compatibility%20Guide.md)
 
-解压后运行 `ArdenWoW 高清补丁安装器.exe`，选择包含 `Arden.exe` 和 `Data` 的游戏目录，再按需安装。安装后继续使用 `Arden.exe` 启动。
+从网盘选择 **ArdenWoW 一键安装包**，解压后运行 `ArdenWoW 高清补丁安装器.exe`，选择包含 `Arden.exe` 和 `Data` 的游戏目录，再按需安装。
 
 ### CoA Core 完整方案
 
-以下步骤适用于 **CoA Core**。完整整合包的下载入口见 [fueryin 原项目](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/tree/CoA-HD-PATCH)。
-
-1. 下载并解压整合包。
-2. 将包内文件放入征服艾泽拉斯客户端目录。
+1. 从同一百度网盘下载并解压**原作者 64 位完整高清补丁包**。
+2. 将包内文件放入 Conquest of Azeroth Core 客户端目录。
 3. 运行 `CoA64.exe` 启动游戏。
+
+[查看 fueryin 原项目](https://github.com/fueryin/Conquest-of-Azeroth-Ultra-HD-Graphics-Modpack/tree/CoA-HD-PATCH)。
 
 ### 安装 ReShade（CoA Core 方案）
 
