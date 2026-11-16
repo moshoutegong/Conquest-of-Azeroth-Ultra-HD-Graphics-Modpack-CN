@@ -72,22 +72,22 @@ Conquest Reborn、ArdenWoW、Grimfall 等自定义 3.3.5a 服务器可能检测�
 
 ## 📥 下载与安装
 
-**[百度网盘下载（含 64 位完整包和 ArdenWoW V3 一键安装包）](https://pan.baidu.com/s/1UvSjqzH9MYLiAGns51tHlw?pwd=kf34)**  
+**[百度网盘下载（含 64 位完整包和 ArdenWoW V4 一键安装包）](https://pan.baidu.com/s/1UvSjqzH9MYLiAGns51tHlw?pwd=kf34)**  
 提取码 **`kf34`**
 
 | 网盘内的安装包 | 适用客户端 | 启动方式 |
 | --- | --- | --- |
 | **原作者 64 位完整高清补丁包** | Conquest of Azeroth Core | 安装后运行 `CoA64.exe` |
-| **ArdenWoW V3 一键安装包** | 32 位 ArdenWoW 3.3.5.12340 | 安装后运行原来的 `Arden.exe` |
+| **ArdenWoW V4 一键安装包** | 32 位 ArdenWoW 3.3.5.12340 | 安装后运行原来的 `Arden.exe` |
 
 ### ArdenWoW 一键安装方案
 
-V3 安装器提供 8 个按 Arden 兼容方案整理的高清 MPQ，以及可选的 **LuxVelum Win32 简体中文版**。两组组件可以分别安装和还原。已经在用 CoAVolFog 的玩家可以继续使用，切换到 LuxVelum 前请先还原旧光影。
+V4 安装器提供 8 个按 Arden 兼容方案整理的高清 MPQ、**LuxVelum Win32 简体中文版**、**32 位 ReShade（含预设、着色器和画质配置）**，以及可选的 **BloodyScreen 和 DanceMusic** 插件。各组可分别安装和还原。已在用 CoAVolFog 的玩家可以继续使用，切换到 LuxVelum 前请先还原原有光影。
 
 - [ArdenWoW 一键安装器项目与使用说明](https://github.com/moshoutegong/ArdenWoW-HD-Installer-CN)
 - [手动安装兼容指南](Compatibility%20Guide.md)
 
-从网盘选择 **ArdenWoW V3 一键安装包**，解压后运行 `ArdenWoW 高清补丁安装器.exe`，选择包含 `Arden.exe` 和 `Data` 的游戏目录，再按需安装。
+从网盘选择 **ArdenWoW V4 一键安装包**，解压后运行 `ArdenWoW 高清补丁安装器.exe`，选择包含 `Arden.exe` 和 `Data` 的游戏目录，再按需安装。
 
 ### CoA Core 完整方案
 
